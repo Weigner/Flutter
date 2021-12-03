@@ -1,4 +1,7 @@
 <h1>Primeiro app feito em Flutter</h1>
+<br>
+<p>Meu primeiro app feito em Flutter, um aplicativo simples feito para listar raças de cães e mostrar os detalhes sobre de acordo com a raçã selecionada</p>
+<br>
 
 <br><br><br>
 <h2>Tela de listagem de raças de cães</h2>
