@@ -8,7 +8,7 @@
 <br>
 <img style="width: 400px" src="prints/01.jpeg">
 <br>
-<img src="prints/04.jpeg">
+<img style="width: 400px" src="prints/04.jpeg">
 
 <br><br><br>
 <h2>Tela de detalhes sobre a raça</h2>
