@@ -6,15 +6,15 @@
 <br><br><br>
 <h2>Tela de listagem de raças de cães</h2>
 <br>
-<img src="prints/01.jpeg">
+<img style="width: 400px" src="prints/01.jpeg">
 <br>
 <img src="prints/04.jpeg">
 
 <br><br><br>
 <h2>Tela de detalhes sobre a raça</h2>
 <br>
-<img src="prints/02.jpeg">
+<img style="width: 400px" src="prints/02.jpeg">
 <br>
-<img src="prints/03.jpeg">
+<img style="width: 400px" src="prints/03.jpeg">
 
 
